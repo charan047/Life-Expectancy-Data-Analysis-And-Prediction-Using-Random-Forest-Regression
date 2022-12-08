@@ -1,4 +1,6 @@
-# life-Expectancy-Data-Analysis
+# Life-Expectancy-Data-Analysis-And-Prediction-Using-Random-Forest-Regression
+
+#### This project is done using Flask. To run this project to the lifeexpectancy directory and run the command- flask run
 
 
 Life expectancy refers to the number of years a person is expected to live based on the statistical average. It is a measure that summarizes the mortality of a country, allowing us to compare it by generations and analyze trends. It depends on the geographical context of the area. There is no better indicator of a country's social development than having a long and healthy life. Life expectancy expansion is a result of, among other things, improvements in nutrition, health and, above all, a decrease in mortality.
