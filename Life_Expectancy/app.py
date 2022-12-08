@@ -21,7 +21,5 @@ def result():
     if request.method == 'POST':
         to_predict_list = request.form.to_dict()
         to_predict_list = list(to_predict_list.values())
-        #to_predict_list = list(map(int, to_predict_list))
-        #print(to_predict_list)
         result = ValuePredictor(to_predict_list)
         return render_template("index.html", prediction = 'Life Expectancy(in years): {}'.format(result))
